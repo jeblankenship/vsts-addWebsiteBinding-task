@@ -4,7 +4,7 @@
     "friendlyName": "Add Binding To Web Site On Remote Computer",
     "description": "Task adds binding to web site on remote computer.",
 	"helpMarkDown": "[More Information](https://github.com/jeblankenship/vsts-addWebsiteBinding-task#readme)",
-    "category": "Utility",
+    "category": ["Utility","Deploy"],
     "visibility": [
         "Build",
 		"Release"
@@ -13,7 +13,7 @@
     "version": {
         "Major": 0,
         "Minor": 1,
-        "Patch": 7
+        "Patch": 11
     },
     "minimumAgentVersion": "1.92.0",
     "inputs": [
